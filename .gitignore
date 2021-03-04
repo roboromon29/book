@@ -1,4 +1,7 @@
 .terraform
+<<<<<<< HEAD
 services/webserver-cluster/.terraform
+=======
+>>>>>>> 5963cc568345e175bdb734ca92350c76a614d48d
 *.tfstate
 *.tfstate.backup
